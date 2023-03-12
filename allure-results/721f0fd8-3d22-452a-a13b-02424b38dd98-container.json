@@ -1,0 +1,1 @@
+{"uuid":"721f0fd8-3d22-452a-a13b-02424b38dd98","name":"tests.LoginTest.localSetuo","children":["0f01fc9a-572c-479f-b816-e31a46e5fb90"],"description":"","befores":[{"name":"localSetuo","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1678656801207,"stop":1678656801233}],"afters":[],"start":1678656801207,"stop":1678656801233}
